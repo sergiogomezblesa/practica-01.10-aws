@@ -1,5 +1,5 @@
 #!/bin/bash
-set -exu
+set -a
 
 # Importamos los variables de entorno
 source .env
